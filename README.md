@@ -1,8 +1,5 @@
-# fe
-Command fe (Fix Examples) corrects errors produced by examples while running go test.
+`github.com/cznic/fe` has moved to [`modernc.org/fe`](https://godoc.org/modernc.org/fe) ([vcs](https://gitlab.com/cznic/fe)).
 
-Installation
+Please update your import paths to `modernc.org/fe`.
 
-    $ go get github.com/cznic/fe
-
-Documentation: [godoc.org/github.com/cznic/fe](http://godoc.org/github.com/cznic/fe)
+This repo is now archived.
